@@ -1,1 +1,1 @@
-# canada_vacancies
+Django-based site
