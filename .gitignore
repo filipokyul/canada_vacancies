@@ -1,3 +1,7 @@
 canada_vacancies/__pycache__/
 db.sqlite3
-
+canada_vacancies/my.cnf
+top/__pycache__/
+top/migrations/__pycache__/
+top/management/__pycache__/
+top/management/commands/__pycache__/
